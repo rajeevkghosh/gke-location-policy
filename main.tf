@@ -1,5 +1,5 @@
 provider "google" {
-  user_project_override = true
+  #user_project_override = true
   project               = "airline1-sabre-wolverine"
 }
 
